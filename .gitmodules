@@ -1,6 +1,6 @@
 [submodule "back/gq/nest"]
-	path = back/gq/nest
-	url = https://github.com/rightsoftend/eh-gq-nest.git
+  path = back/gq/nest
+  url = https://github.com/rightsoftend/eh-gq-nest.git
 [submodule "front/gq/react"]
-	path = front/gq/react
-	url = https://github.com/rightsoftend/eh-gq-react.git
+  path = front/gq/react
+  url = https://github.com/rightsoftend/eh-gq-react.git
